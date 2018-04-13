@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/mybatisAuthor/author.iml" filepath="F:/mybatisAuthor/author.iml" />
+      <module fileurl="file://F:/demo2/demo2.iml" filepath="F:/demo2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb.iml" filepath="$PROJECT_DIR$/javaweb.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.newer.dao.UserDao">
+    <insert id="addCar" parameterType="Car">
+        INSERT  INTO car (name,price,create_date) VALUES (#{name},#{price},#{create_date})
+    </insert>
+</mapper>

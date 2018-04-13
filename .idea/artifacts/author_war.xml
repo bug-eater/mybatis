@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="author:war">
+    <output-path>F:/mybatisAuthor/target</output-path>
+    <root id="archive" name="javaweb.war">
+      <element id="artifact" artifact-name="author:war exploded" />
+    </root>
+  </artifact>
+</component>
